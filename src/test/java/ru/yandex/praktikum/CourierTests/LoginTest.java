@@ -1,4 +1,4 @@
-package ru.yandex.praktikum.lCourierTests;
+package ru.yandex.praktikum.CourierTests;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.ValidatableResponse;
 import org.junit.After;
